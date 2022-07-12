@@ -1,4 +1,7 @@
 # DEPTHFORMER: MULTISCALE VISION TRANSFORMER FOR MONOCULAR DEPTH ESTIMATION WITH GLOBAL LOCAL INFORMATION FUSION
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/depthformer-multiscale-vision-transformer-for/monocular-depth-estimation-on-kitti-eigen)](https://paperswithcode.com/sota/monocular-depth-estimation-on-kitti-eigen?p=depthformer-multiscale-vision-transformer-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/depthformer-multiscale-vision-transformer-for/monocular-depth-estimation-on-nyu-depth-v2)](https://paperswithcode.com/sota/monocular-depth-estimation-on-nyu-depth-v2?p=depthformer-multiscale-vision-transformer-for)
+
 This is the official PyTorch implementation for ICIP 2022 paper 'Depthformer : Multiscale Vision Transformer For Monocular Depth Estimation With Local Global Information Fusion'.
 
 ## Abstract
