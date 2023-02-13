@@ -34,6 +34,23 @@ KITTI:
 ```
 python evaluate.py args_test_kitti_eigen.txt
 ```
+## Citation
+
+If you find our work useful in your research, please cite the following:
+```bibtex
+@INPROCEEDINGS{9897187,
+  author={Agarwal, Ashutosh and Arora, Chetan},
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Depthformer: Multiscale Vision Transformer for Monocular Depth Estimation with Global Local Information Fusion}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3873-3877},
+  doi={10.1109/ICIP46576.2022.9897187}}
+```
+
+## Contact
+For questions about our paper or code, please contact ([@ashutosh1807](https://github.com/ashutosh1807)) or raise an issue on GitHub.
 
 ## References:
 The code is adapted from the following repositories:
